@@ -1,6 +1,4 @@
 # Chat Bot 🤖
-
-[![Run on Repl.it](https://replit.com/badge/github/Monochromish/Chat-Bot)](https://repl.it/github/Monchromish/Chat-Bot)</br></br>
 A Discord Bot written in Javascript / node.js that talks to you with the help of https://brainshop.ai/
 
 ## Self Hosting 🚩
@@ -17,8 +15,5 @@ To talk to the bot, you need to mention the bot and then specify a message.
 
 ## Came across an issue? or need help with the bot? ℹ️
 
-If you find a bug or if you are facing difficulties in hosting the bot, Contact me on Discord... **500315184510795819** <= this is my ID
+If you find a bug or if you are facing difficulties in hosting the bot, Contact me on Discord... **523123116197806081** <= this is my ID
 
-## Credit & Support ❤️
-
-**This bot was fully made by Monochromish (500315184510795819)**
